@@ -1,0 +1,14 @@
+.image1>img{
+    height: 10rem;
+    width: 10rem;
+}
+.image1{
+    margin: 3rem;
+}
+.bigPicture{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
