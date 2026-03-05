@@ -1,0 +1,11 @@
+img{
+    height: 20rem;
+    width: 20rem;
+    margin: 3rem;
+}
+.onePictureBig{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
