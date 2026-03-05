@@ -7,8 +7,6 @@ import "./homeMovie.css";
 export default function HomeMovie() {
   const {
     movies,
-    isLoading,
-    error,
     searchQuery,
     setMovies,
     setSearchQuery,
